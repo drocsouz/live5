@@ -1,3 +1,8 @@
 ID: Live5
 _schema-version: '2.1'
 version: 0.0.1
+
+modules:
+ - name: uidev
+   type: html5
+   path: uidev
